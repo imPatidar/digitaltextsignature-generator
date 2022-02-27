@@ -5,7 +5,7 @@ A React library for creating digital signatures from text.
 
 #Demo
 
-<img src="screenshot.png" alt="demoImage"/>
+<img src="https://github.com/imPatidar/digitaltextsignature-generator/blob/master/screenshot.png?raw=true" alt="demoImage"/>
 
 #Installation
 
